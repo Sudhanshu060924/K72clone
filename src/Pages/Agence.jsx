@@ -27,7 +27,7 @@ const Agence = () => {
         trigger:imgDivRef.current,
        
         start:'top 29%',
-        end:'top -90%',
+        end:'top -80%',
         scrub:true,
         pin:true,
         onUpdate:(elem)=>{
