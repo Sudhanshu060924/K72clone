@@ -15,7 +15,7 @@ function Stair() {
     tl.to('.stair',{
        y:"100%",
         stagger:{
-            amount:-0.2
+            amount:-0.3
         }
     } )      
 
